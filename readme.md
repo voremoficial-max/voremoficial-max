@@ -54,7 +54,7 @@ Mi objetivo es seguir creciendo como desarrollador, crear cosas de las que pueda
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img src="./assests/gif.gif" width="400">
 
 ### 💭 Siempre hay algo nuevo que aprender.
 
