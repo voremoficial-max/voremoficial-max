@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Vorem Banner" width="100%">
+<img src="./assests/banner.png" alt="Vorem Banner" width="100%">
 
 <br>
 
