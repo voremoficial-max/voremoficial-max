@@ -6,50 +6,58 @@
 
 # Vorem
 
-### 🛡️ Seguridad Web · 🔴 Red Team · 💻 Desarrollo
+### 🛡️ Seguridad Ofensiva · 💻 Desarrollo · 🔴 Red Team
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=600&lines=Seguridad+web+ofensiva;Evaluaci%C3%B3n+de+vulnerabilidades;Divulgaci%C3%B3n+responsable;Kryptonox+Security" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=600&lines=Seguridad+Ofensiva;Hacking+%26+Red+Team;Desarrollo+de+herramientas;Rompiendo+cosas+para+entenderlas" alt="Typing SVG">
 
 </div>
 
 ---
 
-## Sobre mí
+## whoami
 
-Soy **Vorem**, operando bajo **Kryptonox Security**.
+Soy **Vorem** — me muevo entre el desarrollo y la seguridad ofensiva.
 
-Me dedico a la **evaluación independiente de seguridad web** — análisis de vulnerabilidades, pruebas de penetración en entornos autorizados y documentación técnica de hallazgos. Mi enfoque está en entender cómo fallan los sistemas antes de que lo haga alguien más.
+Construyo herramientas, analizo sistemas y entiendo cómo funcionan las cosas por dentro. Mi enfoque está en la **seguridad web, Red Team y el desarrollo de proyectos propios**. No sigo tutoriales, aprendo rompiéndolo todo y reconstruyéndolo.
 
-Trabajo en el cruce entre **desarrollo** y **seguridad ofensiva**: construyo para entender, y entiendo para romper con criterio.
+Detrás de **Kryptonox Security**, un proyecto independiente de evaluación de seguridad web orientado a encontrar vulnerabilidades antes de que lo haga alguien más.
 
-> *Cada sistema tiene una grieta. El trabajo es encontrarla antes que otros.*
+> *Entender el sistema es el primer paso para controlarlo.*
 
 ---
 
-## Stack
+## 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github" alt="Tecnologías">
+<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,git,github,linux,bash" alt="Tecnologías">
 
 </div>
 
 ---
 
-## Área de trabajo
+## 🎯 Áreas de trabajo
 
 ```
-├── Seguridad web ofensiva
-│   ├── Evaluación de aplicaciones y portales
-│   ├── Análisis de lógica y flujos de negocio
-│   └── Documentación de evidencias y vectores
-├── Red Team
-│   ├── Reconocimiento y enumeración
-│   └── Explotación en entornos controlados
-└── Divulgación responsable
-    ├── Reporte estructurado de vulnerabilidades
-    └── Comunicación técnica con equipos de desarrollo
+├── Seguridad Ofensiva
+│   ├── Pentesting Web
+│   ├── Reconocimiento & OSINT
+│   └── Red Team
+├── Desarrollo
+│   ├── Herramientas de seguridad
+│   └── Proyectos web
+└── Investigación
+    ├── Análisis de vulnerabilidades
+    └── Divulgación responsable
 ```
+
+---
+
+<div align="center">
+
+<img src="./assests/gif.gif" width="400">
+
+</div>
 
 ---
 
@@ -58,7 +66,7 @@ Trabajo en el cruce entre **desarrollo** y **seguridad ofensiva**: construyo par
 <div align="center">
 
 <a href="https://kryptonox.site">
-  <img src="https://img.shields.io/badge/Kryptonox.site-Web-17131f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web">
+  <img src="https://img.shields.io/badge/Kryptonox%20Security-kryptonox.site-17131f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web">
 </a>
 
 <a href="https://x.com/vorem_of">
@@ -69,20 +77,16 @@ Trabajo en el cruce entre **desarrollo** y **seguridad ofensiva**: construyo par
   <img src="https://img.shields.io/badge/WhatsApp-Canal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal WhatsApp">
 </a>
 
-<a href="https://wa.me/573150736053">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp personal">
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="./assests/gif.gif" width="400">
+> *«Si quieres entender cómo funciona algo, rómpelo.»*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=17131f" width="100%">
 
 </div>
