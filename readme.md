@@ -65,16 +65,26 @@ Detrás de **Kryptonox Security**, un proyecto independiente de evaluación de s
 
 <div align="center">
 
+### 🔗 Proyecto
+
 <a href="https://kryptonox.site">
   <img src="https://img.shields.io/badge/Kryptonox%20Security-kryptonox.site-17131f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web">
 </a>
+
+<br><br>
+
+### 📡 Redes
 
 <a href="https://x.com/vorem_of">
   <img src="https://img.shields.io/badge/X-%40vorem__of-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
 
+<br><br>
+
+### 💬 Comunidad
+
 <a href="https://t.co/xNhdNvDYjP">
-  <img src="https://img.shields.io/badge/WhatsApp-Canal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-Únete%20al%20canal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal WhatsApp">
 </a>
 
 </div>
